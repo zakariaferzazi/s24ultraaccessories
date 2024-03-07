@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482944231732",
+    "project_id": "s24-ultra-accessories",
+    "storage_bucket": "s24-ultra-accessories.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482944231732:android:a506f3961f2f7de3209d61",
+        "android_client_info": {
+          "package_name": "com.s24ultra.accessoire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9OWyp5thFYevuKz7_Wf4ytVO8p0BXtKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
